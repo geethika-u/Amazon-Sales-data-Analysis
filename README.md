@@ -1,7 +1,7 @@
 # Amazon-Sales-data-Analysis
 Amazon sales data analysis using Power BI
 
-# citation: https://www.kaggle.com/datasets/litonislam/amazon-sales-analysis-cleaned-data/data
+
 
 # Amazon Sales Performance Analysis & Customer Insights Dashboard (Power BI)
 
@@ -121,4 +121,5 @@ Analyze customer behavior, ratings, and product performance to improve business 
 #### 🔹 Profit by Rating (Line or Area Chart)
 - **Axis** → `rating`  
 - **Values** → Total Profit  
-
+---
+- citation: https://www.kaggle.com/datasets/litonislam/amazon-sales-analysis-cleaned-data/data
