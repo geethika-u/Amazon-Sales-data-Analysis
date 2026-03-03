@@ -1,6 +1,6 @@
 # Amazon-Sales-data-Analysis
 Amazon sales data analysis using Power BI
-```markdown
+
 # Amazon Sales Performance Analysis & Customer Insights Dashboard (Power BI)
 
 ---
@@ -119,4 +119,4 @@ Analyze customer behavior, ratings, and product performance to improve business 
 #### 🔹 Profit by Rating (Line or Area Chart)
 - **Axis** → `rating`  
 - **Values** → Total Profit  
-```
+
